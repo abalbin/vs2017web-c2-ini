@@ -1,1 +1,3 @@
-# vs2017web-c2-ini
+# Ejercicio 1 - HTML
+
+Leer las instrucciones contenidas en el archivo `instrucciones.md`
